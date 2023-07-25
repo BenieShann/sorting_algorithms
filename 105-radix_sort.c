@@ -90,7 +90,7 @@ void csort(int *array, int size, int lsd)
 }
 
 /**
- * radix_sort - sorts an array of integers in ascending order 
+ * radix_sort - sorts an array of integers in ascending order
  * using the Radix sort algorithm
  *
  * @array:array of data to be sorted

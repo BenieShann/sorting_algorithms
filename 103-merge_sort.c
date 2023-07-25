@@ -50,9 +50,8 @@ void merge(int *array, int *buff, int minL, int maxL, int minR, int maxR)
 			array[k] = buff[i], k++, i++;
 }
 
- /**
+/**
  * printcheck - prints an array in a given range
- *
  * @array: array of data to be print
  * @r1: start of range
  * @r2: end of range

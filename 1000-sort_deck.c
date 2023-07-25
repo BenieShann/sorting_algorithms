@@ -13,7 +13,6 @@ void sort_deck(deck_node_t **deck);
  *
  * Return:Positive byte difference if s1 > s2
  * 0 if s1 == s2
- * 
  * Negative byte difference if s1 < s2
  */
 
